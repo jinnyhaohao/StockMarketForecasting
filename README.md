@@ -33,4 +33,3 @@ The model demonstrates how **market sentiment directly impacts short-term price 
 
 ---
 
-## 📂 Project Structure
